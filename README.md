@@ -36,7 +36,7 @@ https://www.loom.com/share/7f1500edafb14583b872b58b7ac98dfb?sid=39c15dbc-9715-46
 ## Notes
 
 This was another difficult project. I spent a lot of time researching how to get the buttons to only display 2 buttons if a question is True/False.
-I also had issues merging the answer with the possible choices and getting all 3 to display.
+I also had issues merging the answer with the possible choices and getting all 4 to display.
 
 ## License
 
